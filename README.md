@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/Sharptooth14/Google_Keep_Clone.git
-cd google-keep-clone
+cd Google_Keep_Clone
 ```
 
 ### 2. Install Dependencies
